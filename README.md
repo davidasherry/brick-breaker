@@ -3,5 +3,7 @@ A remake of the classic retro game, brick-breaker. The objective of the game is 
 
 # What I Learned
 Working with array keys
+
 Using booleans to initiate keyboard movements
+
 Working with objects and arrays
